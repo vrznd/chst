@@ -1,0 +1,255 @@
+*{padding: 0px; margin: 0px;}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{font-family: 'Roboto', sans-serif;}
+
+.menu ul li {
+	float: left;
+	padding-right: 46px;
+	list-style-type: none;
+}
+
+.menu ul li a {
+	position: relative;
+	text-align:  left;
+	text-decoration: none;
+	color: #c2c2c2;
+	font-size: 17px;
+}
+
+.menu ul li a:hover {
+	color: #00e1ff;
+	transition: 0.3s all;
+}
+
+.menu {
+	padding-top: 28px;
+}
+
+
+.search{padding-top: 14px;}
+
+.hader {
+	background-color: #0c0b29;
+	height: 80px;
+}
+
+
+
+.zxci {
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.logo {
+	text-align: right;
+}
+
+.logo img {
+	position: relative;
+	padding-top: 8px;
+	width: 65px;
+	height: auto;
+}
+
+.logo a {
+	width: 65px;
+	height: auto;
+}
+
+
+.menu2 ul li {
+	border-radius: 3px;
+	float: left;
+	height: 26px;
+	opacity: 0.9;
+	background-color: #0c0b29;
+	box-shadow: 2px 2px 2px #121212;
+	list-style-type: none;
+}
+
+.menu2 ul li a {
+	text-align: center;
+	display: block;
+	font-size: 15px;
+	text-decoration: none;
+	color: #00e1ff;
+	padding:1px 7px 7px 7px;
+	height: 100%;
+	width: 100%;
+}
+
+.menu2 ul li a:hover {
+	background:	linear-gradient(to right,#201e59,#0c0b29);
+	color: white;
+	border-radius: 3px;
+}
+
+
+
+.menu2 ul li:hover {
+	
+}
+
+.menu2 {
+	position: absolute;
+	margin-left: 475px;
+}
+
+
+.monke {
+	background: linear-gradient(to right, #274261, #1c2938);
+	height: 1650px;
+}
+
+
+.cxzz {
+	width: 100%;
+	height: 30px;
+	background: linear-gradient(to right, #274261, #1c2938);
+}
+
+
+.cz {
+	position: absolute;
+	padding-left: 30px;
+}
+
+.cz p {
+	text-align: left;
+	color:whitesmoke;
+	padding-left: 30px;
+}
+
+.cz ul li a {
+	text-decoration: none;
+	color: #00e1ff;
+	font-size: 14px;
+}
+
+.cz ul li a:hover {
+	color: #c2c2c2;
+	transition: 0.3s all;
+}
+
+.cz ul li {
+	list-style-type: none;
+}
+
+.cz img {
+	padding-left: 10px;
+}
+
+
+#carouselExampleCaptions, #carouselExampleCaptions1 { 
+	position: absolute; 	
+	width: 750px;
+	height: auto;
+}
+
+.carousel-item {
+	position: relative;
+	padding-bottom: 125px;
+}
+
+.ccp,.ccpp{
+	position: absolute;
+	color: white;
+	padding-bottom: 465px;
+	margin-left: 12px;
+	background: #395b76;
+	height: 483px;
+	width: 50px;
+	opacity: 0.2;
+}
+
+.ccn, .ccnn {
+	position: absolute;
+	padding-bottom: 465px;
+	margin-right: 12px;
+	background: #395b76;
+	height: 483px;
+	width: 50px;
+	opacity: 0.2;
+}
+
+.carousel-inner {
+	background:linear-gradient(to right, #274261, #1c2938);
+	box-shadow: 3px 4px 5px black;
+}
+
+.mnke {
+	position: absolute;
+	margin-left: 440px;
+	padding-bottom: 10px;
+	margin-top: 100px;
+}
+
+.mnkeee {
+	position: absolute;
+	margin-left: 440px;
+	margin-top: 735px;
+}
+
+.carousel-control-prev-icon {
+	position: absolute;
+	margin-top: 455px;
+}
+
+.carousel-control-next-icon {
+	position: absolute;
+	margin-top: 455px;
+}
+
+.textc {
+	font-size: 12.5px;
+}
+
+
+.qwee {
+	color: #00e1ff;
+	background-color: #1c2938;
+	padding: 6px;
+	font-size: 21px;
+	height: 52px;
+	width: 190px;
+	border: 2px #00e1ff;
+	border-radius: 20px;
+}
+
+.qqq {
+	height: 225px;
+	width: auto;
+	background-color: #0c0b29;
+}
+
+.qwe {
+	color: gray; 
+	text-align: center;
+}
+
+.qwe ul li a {
+	text-decoration: none;
+	color: whitesmoke;
+}
+
+.qwe ul li {
+	list-style-type: none;
+	float: left;
+	padding-left: 20px;
+}
+
+.ulll {	
+	height: 1500px;
+	background-color: #395b76;
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+	
+
+
+ }
